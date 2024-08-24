@@ -1,6 +1,6 @@
 <header>
 
-# Hello GitHub Actions
+# Hello GitHub Actions 🏄🏻‍♀️
 
 _Create and run a GitHub Actions workflow._
 
@@ -23,7 +23,7 @@ The shell script in the workflow will run whenever a new pull request is opened.
 1. In the **Pull requests** tab, create a pull request that will merge `test-workflow` into `main`.
 1. Watch the workflow running in the checks section of the pull request.
 1. Notice the comment that the workflow adds to the pull request.
-1. Wait about 20 seconds, then refresh this page (the one you're following instructions from). Another workflow will run and will replace the contents of this README file with instructions for the next step.
+1. Wait about 20 seconds, then refresh this page (the one you're following instructions from). Another workflow will run and will replace the contents of this README file with instructions for the next step.😜 🏄🏻‍♀️
 
 <footer>
 
